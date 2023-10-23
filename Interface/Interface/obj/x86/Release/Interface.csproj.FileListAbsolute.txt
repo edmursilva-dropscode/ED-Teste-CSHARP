@@ -1,0 +1,96 @@
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Release\Interface.exe
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Release\Interface.pdb
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Release\FrameWork.dll
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Release\Janus.Data.v3.dll
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Release\Janus.Windows.CalendarCombo.v3.dll
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Release\Janus.Windows.Common.v3.dll
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Release\Janus.Windows.GridEX.v3.dll
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Release\FrameWork.pdb
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Release\Janus.Windows.CalendarCombo.v3.xml
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Release\Janus.Windows.GridEX.v3.xml
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Controls.Borda.Borda.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmLocalizar.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmUsuarioLista.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAnamnese.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAnamneseLista.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmProcedimento.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmProcedimentoLista.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmConselhoRegional.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmConselhoRegionalLista.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAgenda.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAgendamento.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAlterarSenha.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAmbulatorio.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAnamneseRegistro.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAtendimento.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAtividade.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAssociado.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmConsulta.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmEscala.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmEspecialidades.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmEspecialidadesLista.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmExame.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmListaEspecialistas.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmLogin.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmMain.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmMultiLancamento.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmOcorrencia.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmPesquisar.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmSplash.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmUsuario.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Properties.Resources.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.exe.licenses
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.exe
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Release\SIIG_Medico.exe
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Release\SIIG_Medico.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Release\FrameWork.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Release\Janus.Data.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Release\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Release\Janus.Windows.Common.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Release\Janus.Windows.GridEX.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Release\FrameWork.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Release\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Release\Janus.Windows.GridEX.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Controls.Borda.Borda.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmEscalaDias.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmGerarPlanilha.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmLocalizar.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmUsuarioLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAnamnese.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAnamneseLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmProcedimento.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmProcedimentoLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmConselhoRegional.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmConselhoRegionalLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAgenda.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAgendamento.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAlterarSenha.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAmbulatorio.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAnamneseRegistro.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAtendimento.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAtividade.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmAssociado.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmConsulta.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmEscala.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmEspecialidades.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmEspecialidadesLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmExame.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmListaEspecialistas.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmLogin.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmMain.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmMultiLancamento.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmOcorrencia.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmPesquisar.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmSplash.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Forms.frmUsuario.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\Interface.Properties.Resources.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\SIIG_Medico.exe.licenses
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\SIIG_Medico.exe
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Release\SIIG_Medico.pdb

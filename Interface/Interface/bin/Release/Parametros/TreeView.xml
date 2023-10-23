@@ -1,0 +1,32 @@
+﻿<!--Adicionar comentário -->
+<Home>
+  <Todos>
+    <Property text="Atendimento" key="Atendimento" imgIndex="1" selImgIndex="1">
+      <Property text="Pendentes" key="AtendimentoPendentes" imgIndex="4" selImgIndex="4" />
+      <Property text="Cancelados" key="AtendimentoCancelados" imgIndex="7" selImgIndex="7" />
+      <Property text="Realizados" key="AtendimentoRealizados" imgIndex="3" selImgIndex="3" />
+    </Property>
+    <Property text="Agenda" key="Agenda" imgIndex="1" selImgIndex="1" />
+    <Property text="Escala" key="Escala" imgIndex="1" selImgIndex="1">
+      <Property text="Pendentes" key="EscalaPendentes" imgIndex="4" selImgIndex="4">
+	    <Property text="Semana" key="Semana" imgIndex="11" selImgIndex="11" />
+	    <Property text="Mês" key="Mês" imgIndex="9" selImgIndex="9">
+		  <Property text="Janeiro" key="01" imgIndex="10" selImgIndex="10" />
+		  <Property text="Fevereiro" key="02" imgIndex="10" selImgIndex="10" />
+		  <Property text="Março" key="03" imgIndex="10" selImgIndex="10" />
+		  <Property text="Abril" key="04" imgIndex="10" selImgIndex="10" />
+		  <Property text="Maio" key="05" imgIndex="10" selImgIndex="10" />
+		  <Property text="Junho" key="06" imgIndex="10" selImgIndex="10" />
+		  <Property text="Julho" key="07" imgIndex="10" selImgIndex="10" />
+		  <Property text="Agosto" key="08" imgIndex="10" selImgIndex="10" />
+		  <Property text="Setembro" key="09" imgIndex="10" selImgIndex="10" />
+		  <Property text="Outubro" key="10" imgIndex="10" selImgIndex="10" />
+		  <Property text="Novembro" key="11" imgIndex="10" selImgIndex="10" />
+		  <Property text="Dezembro" key="12" imgIndex="10" selImgIndex="10" />
+	    </Property>
+      </Property>
+      <Property text="Realizados" key="EscalaRealizados" imgIndex="3" selImgIndex="3" />
+    </Property>
+    <Property text="Ocorrências" key="Ocorrências" imgIndex="1" selImgIndex="1" />
+  </Todos>
+</Home>

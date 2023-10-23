@@ -1,0 +1,418 @@
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Medico?Edmur\SIIG_Medico\Interface\Interface\bin\Debug\SIIG_Medico.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 20-AGO-2013 13:45:24
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Medico?Edmur\SIIG_Medico\Interface\Interface\bin\Debug\SIIG_Medico.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 20-AGO-2013 13:45:30
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Medico?Edmur\SIIG_Medico\Interface\Interface\bin\Debug\SIIG_Medico.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 20-AGO-2013 14:55:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Medico?Edmur\SIIG_Medico\Interface\Interface\bin\Debug\SIIG_Medico.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 20-AGO-2013 14:55:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 04-SET-2013 08:59:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:não há listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Não há listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 04-SET-2013 09:00:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:não há listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Não há listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=restore)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 04-SET-2013 10:14:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:não há listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Não há listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12541, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=restore)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 04-SET-2013 10:15:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12541
+    TNS-12541: TNS:não há listener
+    ns secondary err code: 12560
+    nt main err code: 511
+    TNS-00511: Não há listener
+    nt secondary err code: 61
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:07:47
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:07:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:08:06
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:09:32
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:10:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:10:38
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:22:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:22:30
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:23:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:23:45
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:24:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:24:10
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:24:30
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:25:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12516, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.0.0.12)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=TESTE)(CID=(PROGRAM=C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.vshost.exe)(HOST=TEC_05)(USER=edmur))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.3.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.3.0 - Production
+  Time: 29-OUT-2013 12:26:04
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexão recusada
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0

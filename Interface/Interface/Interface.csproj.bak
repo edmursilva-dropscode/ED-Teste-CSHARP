@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E4D2DED6-9723-4CBE-A0B8-64847D2D572C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Interface</RootNamespace>
+    <AssemblyName>SIIG_Conselheiro</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>imgMain.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.CrystalReports.Engine\10.5.3700.0__692fbea5521e1304\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=11.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC\CrystalDecisions.Enterprise.Framework\11.0.3300.0__692fbea5521e1304\CrystalDecisions.Enterprise.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=11.0.3300.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC\CrystalDecisions.Enterprise.InfoStore\11.0.3300.0__692fbea5521e1304\CrystalDecisions.Enterprise.InfoStore.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.ReportSource\10.5.3700.0__692fbea5521e1304\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.Shared\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Web, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.Web\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.Windows.Forms\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v10.2, Version=10.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\DevExpress 2010.2\Components\Sources\DevExpress.DLL\DevExpress.Data.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v10.2, Version=10.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\DevExpress 2010.2\Components\Sources\DevExpress.DLL\DevExpress.Utils.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v10.2, Version=10.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\DevExpress 2010.2\Components\Sources\DevExpress.DLL\DevExpress.XtraBars.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v10.2, Version=10.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\DevExpress 2010.2\Components\Sources\DevExpress.DLL\DevExpress.XtraEditors.v10.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Janus.Data.v3, Version=3.0.0.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.CalendarCombo.v3, Version=3.0.0.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.Common.v3, Version=3.0.0.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.GridEX.v3, Version=3.0.0.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Vbe.Interop, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office14\Microsoft.Vbe.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="OFFICE, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\office\14.0.0.0__71e9bce111e9429c\OFFICE.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\uscBorda.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\uscBorda.designer.cs">
+      <DependentUpon>uscBorda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAlertaEliminacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAlertaEliminacao.designer.cs">
+      <DependentUpon>frmAlertaEliminacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAlertaJustificativas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAlertaJustificativas.designer.cs">
+      <DependentUpon>frmAlertaJustificativas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAlertaTerminoLicencas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAlertaTerminoLicencas.designer.cs">
+      <DependentUpon>frmAlertaTerminoLicencas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAlertaLicencas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAlertaLicencas.designer.cs">
+      <DependentUpon>frmAlertaLicencas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAlertaTerminoMandatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAlertaTerminoMandatos.designer.cs">
+      <DependentUpon>frmAlertaTerminoMandatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAutenticacaoLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAutenticacaoLogin.designer.cs">
+      <DependentUpon>frmAutenticacaoLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmComunicacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmComunicacao.designer.cs">
+      <DependentUpon>frmComunicacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmComunicacaoEnvio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmComunicacaoEnvio.designer.cs">
+      <DependentUpon>frmComunicacaoEnvio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConselheiros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConselheiros.designer.cs">
+      <DependentUpon>frmConselheiros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmGerarPlanilha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmGerarPlanilha.designer.cs">
+      <DependentUpon>frmGerarPlanilha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImprimir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImprimir.designer.cs">
+      <DependentUpon>frmImprimir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInserirCampos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInserirCampos.designer.cs">
+      <DependentUpon>frmInserirCampos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmJustificativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmJustificativa.designer.cs">
+      <DependentUpon>frmJustificativa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLicenciamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLicenciamento.designer.cs">
+      <DependentUpon>frmLicenciamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLicenciamentoSuplente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLicenciamentoSuplente.designer.cs">
+      <DependentUpon>frmLicenciamentoSuplente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPromoverSuplente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPromoverSuplente.designer.cs">
+      <DependentUpon>frmPromoverSuplente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMotivoLicenca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMotivoLicenca.designer.cs">
+      <DependentUpon>frmMotivoLicenca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMotivoLicencaLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMotivoLicencaLista.designer.cs">
+      <DependentUpon>frmMotivoLicencaLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAlterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAlterarSenha.Designer.cs">
+      <DependentUpon>frmAlterarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLocalizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLocalizar.designer.cs">
+      <DependentUpon>frmLocalizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPesquisar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPesquisar.designer.cs">
+      <DependentUpon>frmPesquisar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPesquisarDetalhado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPesquisarDetalhado.designer.cs">
+      <DependentUpon>frmPesquisarDetalhado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmReuniao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReuniao.designer.cs">
+      <DependentUpon>frmReuniao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objetos\MyListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Controls\uscBorda.resx">
+      <DependentUpon>uscBorda.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAlertaEliminacao.resx">
+      <DependentUpon>frmAlertaEliminacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAlertaJustificativas.resx">
+      <DependentUpon>frmAlertaJustificativas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAlertaTerminoLicencas.resx">
+      <DependentUpon>frmAlertaTerminoLicencas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAlertaLicencas.resx">
+      <DependentUpon>frmAlertaLicencas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAlertaTerminoMandatos.resx">
+      <DependentUpon>frmAlertaTerminoMandatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAutenticacaoLogin.resx">
+      <DependentUpon>frmAutenticacaoLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmComunicacao.resx">
+      <DependentUpon>frmComunicacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmComunicacaoEnvio.resx">
+      <DependentUpon>frmComunicacaoEnvio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConselheiros.resx">
+      <DependentUpon>frmConselheiros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmGerarPlanilha.resx">
+      <DependentUpon>frmGerarPlanilha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImprimir.resx">
+      <DependentUpon>frmImprimir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInserirCampos.resx">
+      <DependentUpon>frmInserirCampos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmJustificativa.resx">
+      <DependentUpon>frmJustificativa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLicenciamento.resx">
+      <DependentUpon>frmLicenciamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLicenciamentoSuplente.resx">
+      <DependentUpon>frmLicenciamentoSuplente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPromoverSuplente.resx">
+      <DependentUpon>frmPromoverSuplente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMotivoLicenca.resx">
+      <DependentUpon>frmMotivoLicenca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMotivoLicencaLista.resx">
+      <DependentUpon>frmMotivoLicencaLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAlterarSenha.resx">
+      <DependentUpon>frmAlterarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLocalizar.resx">
+      <DependentUpon>frmLocalizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPesquisar.resx">
+      <DependentUpon>frmPesquisar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPesquisarDetalhado.resx">
+      <DependentUpon>frmPesquisarDetalhado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReuniao.resx">
+      <DependentUpon>frmReuniao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Imagens\Icones\" />
+    <Folder Include="Imagens\Treeview\" />
+    <Folder Include="LogoSistema\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="app.ico" />
+    <Content Include="Imagens\Forms\icontexto-webdev-bullet-128x128.png" />
+    <Content Include="Imagens\Forms\icontexto-webdev-config-128x128.png" />
+    <Content Include="Imagens\Forms\icontexto-webdev-help-128x128.jpg" />
+    <Content Include="Imagens\Forms\TarefaLista.png" />
+    <Content Include="Imagens\Logo\05_Logo_Medico.png" />
+    <Content Include="Imagens\Splash\Splash02.png" />
+    <Content Include="imgMain.ico" />
+    <Content Include="Parametros\TreeView.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="TreeView.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\FrameWork\FrameWork.csproj">
+      <Project>{4B8A7F62-F661-4BA1-B7AE-B38141EE07CE}</Project>
+      <Name>FrameWork</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,4 @@
+Acertos:
+-Liberação de funcionário  não esta funcionando
+-O LOG de alteração na parte de funcionario do associado esta deixando o 
+ campo IDUSUARIO com o usuario que incluiu o funcionario.

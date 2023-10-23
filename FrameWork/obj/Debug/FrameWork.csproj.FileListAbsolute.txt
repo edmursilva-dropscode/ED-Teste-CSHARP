@@ -1,0 +1,317 @@
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\bin\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\bin\Debug\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\bin\Debug\Janus.Data.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\obj\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA_Ocorrencia\FrameWork\obj\Debug\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\Janus.Data.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\obj\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\obj\Debug\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Debug\FrameWork.dll.config
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\FrameWork.dll.config
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\Janus.Data.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\obj\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\Versao_0_1_0\FrameWork\obj\Debug\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\FrameWork.dll.config
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\Janus.Data.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\obj\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\obj\Debug\FrameWork.pdb
+F:\Versao_0.5\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+F:\Versao_0.5\FrameWork\bin\Debug\FrameWork.dll.config
+F:\Versao_0.5\FrameWork\bin\Debug\FrameWork.dll
+F:\Versao_0.5\FrameWork\bin\Debug\FrameWork.pdb
+F:\Versao_0.5\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+F:\Versao_0.5\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+F:\Versao_0.5\FrameWork\obj\Debug\FrameWork.dll
+F:\Versao_0.5\FrameWork\obj\Debug\FrameWork.pdb
+F:\Versao_0.5\FrameWork\bin\Debug\Janus.Data.v3.dll
+F:\Versao_0.5\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+F:\Versao_0.5\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+F:\Versao_0.5\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+F:\Versao_0.5\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+F:\Versao_0.5\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\FrameWork.dll.config
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\Janus.Data.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\obj\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.6\FrameWork\obj\Debug\FrameWork.pdb
+G:\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.dll.config
+G:\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.dll
+G:\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.pdb
+G:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Data.v3.dll
+G:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+G:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+G:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+G:\SIIG_Fitness\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+G:\SIIG_Fitness\FrameWork\bin\Debug\office.dll
+G:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+G:\SIIG_Fitness\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+G:\SIIG_Fitness\FrameWork\bin\Debug\office.xml
+G:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+G:\SIIG_Fitness\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+G:\SIIG_Fitness\FrameWork\obj\Debug\FrameWork.dll
+G:\SIIG_Fitness\FrameWork\obj\Debug\FrameWork.pdb
+H:\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.dll.config
+H:\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.dll
+H:\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.pdb
+H:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Data.v3.dll
+H:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+H:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+H:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+H:\SIIG_Fitness\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+H:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+H:\SIIG_Fitness\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+H:\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+H:\SIIG_Fitness\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+H:\SIIG_Fitness\FrameWork\obj\Debug\FrameWork.dll
+H:\SIIG_Fitness\FrameWork\obj\Debug\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.dll.config
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\Janus.Data.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\obj\Debug\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\SIIG\SIIG_Fitness\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Fitness\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\leandro.PAINEIRAS\Desktop\Gestao_Medica\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\leandro.PAINEIRAS\Desktop\SIIG_Medico\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\office.dll
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\bin\Debug\office.xml
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\leandro\Desktop\BCK\Leandro\2011\2011\SIIG Alunos\FrameWork\obj\Debug\FrameWork.pdb
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\bin\Debug\FrameWork.pdb
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\obj\Debug\FrameWork.dll
+C:\Padrao_Desenvolvimento\SIIG_Medico\FrameWork\obj\Debug\FrameWork.pdb
+C:\Projetos\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Projetos\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll
+C:\Projetos\SIIG_Medico\FrameWork\bin\Debug\FrameWork.pdb
+C:\Projetos\SIIG_Medico\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Projetos\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Projetos\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Projetos\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Projetos\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Projetos\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Projetos\SIIG_Medico\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SIIG_Medico\FrameWork\obj\Debug\FrameWork.dll
+C:\Projetos\SIIG_Medico\FrameWork\obj\Debug\FrameWork.pdb
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll.config
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\bin\Debug\FrameWork.pdb
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\bin\Debug\Janus.Data.v3.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\obj\Debug\FrameWork.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\obj\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\bin\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\bin\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\obj\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\FrameWork\obj\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\bin\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\bin\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\bin\Debug\Janus.Data.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\obj\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\FrameWork\obj\Debug\FrameWork.pdb
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\FrameWork.dll.config
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\FrameWork.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\FrameWork.pdb
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\Janus.Data.v3.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\Janus.Windows.Common.v3.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\obj\Debug\FrameWork.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\obj\Debug\FrameWork.pdb
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\FrameWork.dll.config
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\FrameWork.dll
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\FrameWork.pdb
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\bin\Debug\Janus.Windows.GridEX.v3.xml
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\obj\Debug\FrameWork.dll
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\FrameWork\obj\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\FrameWork\bin\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\FrameWork\bin\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\FrameWork\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\FrameWork\obj\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\FrameWork\obj\Debug\FrameWork.pdb
+C:\Teste_ESL_Loja\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Teste_ESL_Loja\FrameWork\bin\Debug\FrameWork.dll
+C:\Teste_ESL_Loja\FrameWork\bin\Debug\FrameWork.pdb
+C:\Teste_ESL_Loja\FrameWork\obj\Debug\FrameWork.dll
+C:\Teste_ESL_Loja\FrameWork\obj\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\FrameWork\bin\Debug\FrameWork.dll.config
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\FrameWork\bin\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\FrameWork\bin\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\FrameWork\obj\Debug\FrameWork.csproj.CopyComplete
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\FrameWork\obj\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\FrameWork\obj\Debug\FrameWork.pdb

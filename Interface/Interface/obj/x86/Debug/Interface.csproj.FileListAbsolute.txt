@@ -1,0 +1,524 @@
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgenda.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgendamento.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlterarSenha.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAmbulatorio.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAtendimento.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAtividade.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAssociado.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConsulta.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscala.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmExame.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmListaEspecialistas.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMultiLancamento.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmOcorrencia.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmSplash.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmUsuario.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.exe.licenses
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Debug\Interface.exe
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Debug\Interface.pdb
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Debug\FrameWork.dll
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Data.v3.dll
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Debug\FrameWork.pdb
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Projetos\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidades.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidadesLista.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.exe
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.pdb
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegional.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegionalLista.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimento.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimentoLista.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseRegistro.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamnese.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseLista.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmUsuarioLista.resources
+C:\Projetos\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLocalizar.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.exe
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.pdb
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\bin\Debug\Interface.exe
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\bin\Debug\Interface.pdb
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\bin\Debug\FrameWork.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Data.v3.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.Common.v3.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.dll
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\bin\Debug\FrameWork.pdb
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.xml
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscalaDias.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLocalizar.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmUsuarioLista.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamnese.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseLista.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimento.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimentoLista.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegional.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegionalLista.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgenda.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgendamento.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlterarSenha.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAmbulatorio.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseRegistro.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAtendimento.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAtividade.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAssociado.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConsulta.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscala.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidades.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidadesLista.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmExame.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmListaEspecialistas.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMultiLancamento.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmOcorrencia.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmSplash.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmUsuario.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\24-05-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.exe.licenses
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.exe
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\bin\Debug\FrameWork.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\bin\Debug\Janus.Data.v3.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\bin\Debug\FrameWork.pdb
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscalaDias.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLocalizar.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmUsuarioLista.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamnese.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseLista.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimento.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimentoLista.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegional.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegionalLista.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgenda.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgendamento.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlterarSenha.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAmbulatorio.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseRegistro.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAtendimento.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAtividade.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAssociado.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConsulta.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscala.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidades.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidadesLista.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmExame.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmListaEspecialistas.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMultiLancamento.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmOcorrencia.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmSplash.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Forms.frmUsuario.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\eric\Desktop\SIIG_Medico Agnaldo\Interface\Interface\obj\x86\Debug\Interface.exe.licenses
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\SIIG_Medico.exe
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\SIIG_Medico.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\bin\Debug\SIIG_Medico.exe
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\bin\Debug\SIIG_Medico.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\bin\Debug\FrameWork.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\bin\Debug\Janus.Data.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\bin\Debug\FrameWork.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgendaPesquisa.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseResposta.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamnesesLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmCapturarImagem.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEncaminhar.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscalaDias.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmGerarPlanilha.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLocalizar.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMultiAtendimentos.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimentos.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmTipoAnamnese.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmTipoAnamneseLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamnese.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimentoLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegional.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegionalLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgenda.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgendamento.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlterarSenha.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAmbulatorio.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAtendimento.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAssociado.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConsulta.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscala.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidades.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidadesLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmExame.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmListaEspecialistas.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmOcorrencia.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmSplash.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Forms.frmUsuario.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico_\Interface\Interface\obj\x86\Debug\SIIG_Medico.exe.licenses
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\26-07-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.exe
+M:\Sistemas\02_Projetos\01_Em_Andamento\05_SIIG_Medico\03_Execucao\Fontes\26-07-2013\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Debug\SIIG_Medico.exe
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Debug\SIIG_Medico.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Debug\FrameWork.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Data.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Debug\FrameWork.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgendaPesquisa.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseResposta.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmCapturarImagem.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEncaminhar.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscalaDias.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmGerarPlanilha.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLocalizar.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMultiAtendimentos.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimentos.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmTipoAnamnese.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmTipoAnamneseLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamnese.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimentoLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegional.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegionalLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgenda.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgendamento.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlterarSenha.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAmbulatorio.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAtendimento.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAssociado.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConsulta.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscala.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidades.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidadesLista.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmExame.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmListaEspecialistas.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmOcorrencia.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmSplash.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmUsuario.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.exe.licenses
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.exe
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseLista.resources
+H:\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.exe
+H:\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.pdb
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgendaPesquisa.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseResposta.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamneseLista.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAtendimento.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmCapturarImagem.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEncaminhar.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscalaDias.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmGerarPlanilha.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLocalizar.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMultiAtendimentos.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmOcorrencia.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisarPaciente.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimentos.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmTipoAnamnese.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmTipoAnamneseLista.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAnamnese.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProcedimentoLista.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegional.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselhoRegionalLista.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgenda.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAgendamento.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlterarSenha.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAmbulatorio.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConsulta.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEscala.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidades.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmEspecialidadesLista.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmExame.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmListaEspecialistas.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmSplash.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Forms.frmUsuario.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.exe.licenses
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\bin\Debug\SIIG_Medico.exe
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\bin\Debug\SIIG_Medico.pdb
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\bin\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Data.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\bin\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.exe
+C:\Edmur\Desenvolvimento\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.pdb
+C:\Edmur\Sistemas\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.exe
+C:\Edmur\Sistemas\SIIG_Medico Edmur\SIIG_Medico\Interface\Interface\obj\x86\Debug\SIIG_Medico.pdb
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe.config
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\SIIG_Conselheiro.pdb
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\Janus.Data.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\Janus.Windows.Common.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.dll
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.xml
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaEliminacao.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaJustificativas.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaTerminoLicencas.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaLicencas.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaTerminoMandatos.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAutenticacaoLogin.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmComunicacao.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmComunicacaoEnvio.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselheiros.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmGerarPlanilha.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmImprimir.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmInserirCampos.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmJustificativa.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLicenciamento.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLicenciamentoSuplente.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPromoverSuplente.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMotivoLicenca.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMotivoLicencaLista.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlterarSenha.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLocalizar.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisarDetalhado.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmReuniao.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Forms.frmSplash.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe.licenses
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe
+C:\Edmur\Desenvolvimento\SIIG_Conselheiros\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.pdb
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe.config
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.pdb
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\SIIG_Conselheiro.pdb
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\FrameWork.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\Janus.Data.v3.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\Janus.Windows.Common.v3.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.dll
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\FrameWork.pdb
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\Janus.Windows.CalendarCombo.v3.xml
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\Janus.Windows.GridEX.v3.xml
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.csprojResolveAssemblyReference.cache
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaEliminacao.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaJustificativas.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaTerminoLicencas.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaLicencas.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaTerminoMandatos.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAutenticacaoLogin.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmComunicacao.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmComunicacaoEnvio.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselheiros.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmGerarPlanilha.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmImprimir.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmInserirCampos.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmJustificativa.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLicenciamento.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLicenciamentoSuplente.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPromoverSuplente.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMotivoLicenca.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMotivoLicencaLista.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlterarSenha.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLocalizar.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisarDetalhado.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmReuniao.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmSplash.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+M:\Sistemas\fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe.licenses
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe.config
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.pdb
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.csprojResolveAssemblyReference.cache
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaEliminacao.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaJustificativas.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaTerminoLicencas.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaLicencas.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaTerminoMandatos.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAutenticacaoLogin.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmComunicacao.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmComunicacaoEnvio.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselheiros.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmGerarPlanilha.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmImprimir.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmInserirCampos.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmJustificativa.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLicenciamento.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLicenciamentoSuplente.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPromoverSuplente.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMotivoLicenca.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMotivoLicencaLista.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlterarSenha.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLocalizar.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisarDetalhado.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmReuniao.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmSplash.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+H:\Backup_EdmurRoberta_16032014\Edmur\ClubePaineiras_Old_08\Sistemas\10_Fontes\03_CodigoFonte\03_DotNet\01_WindowsForm\01_SIIG\SIIG_Conselho\Versao 0.1\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe.licenses
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe.config
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaEliminacao.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaJustificativas.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaTerminoLicencas.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaLicencas.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlertaTerminoMandatos.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAutenticacaoLogin.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmComunicacao.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmComunicacaoEnvio.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmConselheiros.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmGerarPlanilha.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmImprimir.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmInserirCampos.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmJustificativa.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLicenciamento.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLicenciamentoSuplente.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPromoverSuplente.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMotivoLicenca.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMotivoLicencaLista.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmAlterarSenha.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLocalizar.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisarDetalhado.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmReuniao.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Forms.frmSplash.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+C:\Edmur\Desenvolvimento\Controle_De_Conselheiro\Versao 0.1\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe.licenses
+C:\Edmur\Desenvolvimento\Teste_ESL_Loja\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe.config
+C:\Edmur\Desenvolvimento\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe
+C:\Edmur\Desenvolvimento\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.pdb
+C:\Teste_ESL_Loja\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe.config
+C:\Teste_ESL_Loja\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe
+C:\Teste_ESL_Loja\Interface\Interface\bin\Debug\SIIG_Conselheiro.pdb
+C:\Teste_ESL_Loja\Interface\Interface\bin\Debug\FrameWork.dll
+C:\Teste_ESL_Loja\Interface\Interface\bin\Debug\FrameWork.pdb
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.frmItensPedido.resources
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPedidos.resources
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.frmLogin.resources
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.frmMain.resources
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.frmClientes.resources
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.frmPesquisar.resources
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProdutos.resources
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe.licenses
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe
+C:\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.pdb
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe.config
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\bin\Debug\SIIG_Conselheiro.pdb
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\bin\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\bin\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\bin\Debug\FrameWork.dll.config
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.csproj.AssemblyReference.cache
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.FrmItensPedido.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.FrmPedidos.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.FrmLogin.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.FrmMain.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.frmClientes.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.FrmPesquisar.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProdutos.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.cache
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\Interface.csproj.CopyComplete
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\Teste_ESL_Loja\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.pdb
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe.config
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\bin\Debug\SIIG_Conselheiro.exe
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\bin\Debug\SIIG_Conselheiro.pdb
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\bin\Debug\FrameWork.dll
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\bin\Debug\FrameWork.pdb
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\bin\Debug\FrameWork.dll.config
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.csproj.AssemblyReference.cache
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.Controls.Borda.Borda.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.Forms.FrmItensPedido.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.Forms.FrmPedidos.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.Forms.FrmLogin.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.Forms.FrmMain.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.Forms.frmClientes.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.Forms.FrmPesquisar.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.Forms.frmProdutos.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.cache
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\Interface.csproj.CopyComplete
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.exe
+C:\Edmur\Desenvolvimento\C#.Net_Sistemas\ESL_Teste_Loja_DESKTOP\Interface\Interface\obj\x86\Debug\SIIG_Conselheiro.pdb

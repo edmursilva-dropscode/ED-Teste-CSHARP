@@ -1,0 +1,31 @@
+﻿<Home>
+  <Supervisor>
+    <Property text="Pedidos" key="Pedidos" imgIndex="1" selImgIndex="1"  >
+      <Property text="Pendentes" key="PedidosPendentes" imgIndex="7" selImgIndex="7" />
+      <Property text="Concluídos" key="PedidosConcluidos" imgIndex="5" selImgIndex="5" />
+    </Property>
+    <Property text="Produtos" key="Produtos" imgIndex="1" selImgIndex="1"  >
+      <Property text="Ativos" key="ProdutosAtivos" imgIndex="6" selImgIndex="6" />
+      <Property text="Descontinuado" key="ProdutosDescontinuados" imgIndex="8" selImgIndex="8" />
+    </Property>
+    <Property text="Clientes" key="Clientes" imgIndex="1" selImgIndex="1"  >
+      <Property text="Ativos" key="ClientesAtivos" imgIndex="6" selImgIndex="6" />
+      <Property text="Descontinuados" key="ClientesDescontinuados" imgIndex="8" selImgIndex="8" />
+    </Property>
+  </Supervisor>
+
+  <Usuario>
+    <Property text="Pedidos" key="Pedidos" imgIndex="1" selImgIndex="1"  >
+      <Property text="Pendentes" key="PedidosPendentes" imgIndex="7" selImgIndex="7" />
+      <Property text="Concluídos" key="PedidosConcluidos" imgIndex="5" selImgIndex="5" />
+    </Property>
+    <Property text="Produtos" key="Produtos" imgIndex="1" selImgIndex="1"  >
+      <Property text="Ativos" key="ProdutosAtivos" imgIndex="6" selImgIndex="6" />
+      <Property text="Descontinuado" key="ProdutosDescontinuados" imgIndex="8" selImgIndex="8" />
+    </Property>
+    <Property text="Clientes" key="Clientes" imgIndex="1" selImgIndex="1"  >
+      <Property text="Ativos" key="ClientesAtivos" imgIndex="6" selImgIndex="6" />
+      <Property text="Descontinuados" key="ClientesDescontinuados" imgIndex="8" selImgIndex="8" />
+    </Property>
+  </Usuario>
+</Home>

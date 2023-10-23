@@ -1,0 +1,51 @@
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Release\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Release\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Release\Janus.Data.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Release\Janus.Windows.CalendarCombo.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Release\Janus.Windows.Common.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Release\Janus.Windows.GridEX.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Release\Janus.Windows.CalendarCombo.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Release\Janus.Windows.GridEX.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\obj\Release\ResolveAssemblyReference.cache
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\obj\Release\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\obj\Release\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Release\Microsoft.Office.Interop.Outlook.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA_Ouvidoria\FrameWork\bin\Release\Microsoft.Office.Interop.Outlook.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\FrameWork.dll.config
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\FrameWork.pdb
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\Janus.Data.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\Janus.Windows.CalendarCombo.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\Janus.Windows.Common.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\Janus.Windows.GridEX.v3.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\Microsoft.Office.Interop.Outlook.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\Janus.Windows.GridEX.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\Microsoft.Office.Interop.Outlook.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\bin\Release\Janus.Windows.CalendarCombo.v3.xml
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\obj\Release\ResolveAssemblyReference.cache
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\obj\Release\FrameWork.dll
+J:\Desenv\Sistemas Windows\Base Oracle\Dot Net\GSIA\GSIA - Manutencao\Versao_0.5\FrameWork\obj\Release\FrameWork.pdb
+C:\Projetos\SIIG_Medico\FrameWork\bin\Release\FrameWork.dll.config
+C:\Projetos\SIIG_Medico\FrameWork\bin\Release\FrameWork.dll
+C:\Projetos\SIIG_Medico\FrameWork\bin\Release\FrameWork.pdb
+C:\Projetos\SIIG_Medico\FrameWork\bin\Release\Janus.Data.v3.dll
+C:\Projetos\SIIG_Medico\FrameWork\bin\Release\Janus.Windows.CalendarCombo.v3.dll
+C:\Projetos\SIIG_Medico\FrameWork\bin\Release\Janus.Windows.Common.v3.dll
+C:\Projetos\SIIG_Medico\FrameWork\bin\Release\Janus.Windows.GridEX.v3.dll
+C:\Projetos\SIIG_Medico\FrameWork\bin\Release\Janus.Windows.CalendarCombo.v3.xml
+C:\Projetos\SIIG_Medico\FrameWork\bin\Release\Janus.Windows.GridEX.v3.xml
+C:\Projetos\SIIG_Medico\FrameWork\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\SIIG_Medico\FrameWork\obj\Release\FrameWork.dll
+C:\Projetos\SIIG_Medico\FrameWork\obj\Release\FrameWork.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Release\FrameWork.dll.config
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Release\FrameWork.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Release\FrameWork.pdb
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Release\Janus.Data.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Release\Janus.Windows.CalendarCombo.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Release\Janus.Windows.Common.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Release\Janus.Windows.GridEX.v3.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Release\Janus.Windows.CalendarCombo.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\bin\Release\Janus.Windows.GridEX.v3.xml
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\obj\Release\ResolveAssemblyReference.cache
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\obj\Release\FrameWork.dll
+C:\Users\eric\Documents\Visual Studio 2010\Projects\SIIG_Medico\FrameWork\obj\Release\FrameWork.pdb
