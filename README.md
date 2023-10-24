@@ -1,4 +1,4 @@
-# SISTEMA TESTE EM CSHARP 
+# SISTEMA TESTE EM CSHARP - DESKTOP
 
 ## Sistema de Cadastro de Produtos, Clientes e Pedidos em CSHARP
 Um sistema de Cadastro de Produtos, Clientes e Pedidos é uma ferramenta essencial para empresas que desejam gerenciar suas operações de vendas de forma eficiente. Na plataforma desktop, a linguagem de programação C# oferece uma solução poderosa e flexível para a criação de tal sistema.
